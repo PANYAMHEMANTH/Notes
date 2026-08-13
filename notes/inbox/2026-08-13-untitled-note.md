@@ -1,5 +1,5 @@
 ---
-title: "Untitled note"
+title: "github"
 tags: []
 date: 2026-08-13
 folder: inbox
